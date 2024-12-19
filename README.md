@@ -1,1 +1,1 @@
-# ai-ml-dev
+# AI/ML Journey for Skill up purposes
